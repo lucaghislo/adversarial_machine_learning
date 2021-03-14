@@ -1,4 +1,6 @@
-# Adversarial Machine Learning: problem evaluation and implementation
+# Adversarial Machine Learning
+## Problem evaluation and implementation
+
 This repository contains all the code and material related to the computer security course project regarding the subject of adversarial machine learning.
 
 ### Conda-Navigator GUI launch
