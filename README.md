@@ -26,4 +26,4 @@ Remember to activate the enviroment in the project directory.
 ### Project run
 Once everything's installed, run the project:
 
-![Project terminal run](/readme_images/project run.png)
+![Project terminal run](/readme_images/project_run.png)
