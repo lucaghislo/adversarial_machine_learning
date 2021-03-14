@@ -15,7 +15,7 @@ You can now install the components needed for the project.
 
 
 ### Conda enviroment activation
-Once finished, activate the enviroment:
+Once finished, activate the enviroment (in this case called adversarial_ml):
 
 ![Terminal](/readme_images/conda_activate.png)
 
