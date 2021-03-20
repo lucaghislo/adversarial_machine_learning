@@ -2,6 +2,11 @@
 
 This repository contains all the code and material related to the computer security course project regarding the subject of adversarial machine learning.
 
+## Project slides (via Google Drive)
+Presentation slides available at this [link](https://drive.google.com/file/d/1gqZ8AyPJX-5C7r7ojdAkS7soUA0eC7yq/view?usp=sharing).
+
+## Project setup
+
 ### Conda-Navigator GUI launch
 Once you've installed Conda, from the terminal type:
 ```
