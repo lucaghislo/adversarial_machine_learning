@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{The problem}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{A spot of context}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{What do we mean with Adversarial Machine Learning?}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Why is it such an important issue?}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Different ways to implement an attack}{6}{0}{1}
+\beamer@sectionintoc {2}{Implementation: an example}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Project setup: the tools you'll need}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{An example: a Ferrari that turns out to be a purse}{12}{0}{2}
+\beamer@sectionintoc {3}{References}{18}{0}{3}
