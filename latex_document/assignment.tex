@@ -91,7 +91,7 @@ Many applications of machine learning are adversarial in nature. Some are advers
 \begin{frame}
 \frametitle{Different ways to implement an attack}
 We classify attacks along three dimensions: \textit{timing}, \textit{information}, and \textit{goals}.
-\begin{block}{The timing dimension}
+\begin{block}{The \textit{timing} dimension}
     The first crucial consideration in modeling attacks is \textit{when} the attack takes place. \textbf{Attacks on models} assume that the model has already been learned, and the attacker now either changes its behavior, or makes changes to the observed environment, to cause the model to make erroneous predictions. \textbf{Poisoning attacks}, in contrast, take place before models are trained, modifying a part of the data used for training.
 \end{block}
 \end{frame}
@@ -104,13 +104,13 @@ We classify attacks along three dimensions: \textit{timing}, \textit{information
 \end{frame}
 
 \begin{frame}{Different ways to implement an attack}
-\begin{block}{The information dimension}
+\begin{block}{The \textit{information} dimension}
 The second important issue in modeling attacks is what information the attacker has about the learning model or algorithm, a distinction which is commonly distilled into white-box vs black-box attacks. In particular, \textbf{white-box attacks} assume that either the model (in the case of attacks on decisions) or algorithm (in poisoning attacks) is fully known to the adversary, whereas in \textbf{black-box attacks} the adversary has limited or even no information at all.
 \end{block}
 \end{frame}
 
 \begin{frame}{Different ways to implement an attack}
-\begin{block}{The goals dimension}
+\begin{block}{The \textit{goals} dimension}
 Attackers may have different reasons for attacking, such as evading detection or
 reducing confidence in the algorithm. We differentiate two broad classes of attack goals: targeted attacks and reliability attacks. In a \textbf{targeted attack}, the attacker’s goal is to cause a mistake on specific instances of a specific nature. A \textbf{reliability attack}, in contrast, aims to degrade the perceived reliability of the learning system by maximizing prediction error.
 \end{block}
@@ -131,7 +131,7 @@ In order to try out and test the project you'll need:
     
     \item \textbf{Python 3}
     
-    \item \textbf{Tensorflow (2.2 required, 2.4.1 provided)} Free and open-source software library for machine learning. \href{https://www.tensorflow.org/}{\textit{https://www.tensorflow.org/}}
+    \item \textbf{Tensorflow (2.2 required, 2.4.1 provided)} Free and open-source software library for machine learning. \href{https://www.tensorflow.org/}{\textit{https://tensorflow.org/}}
     
     \item \textbf{Keras (2.2 required, 2.4.3 provided)} Open-source software library that provides a Python interface for artificial neural networks. \href{https://keras.io/}{\textit{https://keras.io/}}
     
