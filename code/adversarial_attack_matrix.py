@@ -98,6 +98,8 @@ def generate_adversarials(batch_size):
         
         yield x, y
 
+adversarials, correct_labels = next(generate_adversarials(12))
+
 for adversarial, correct_label in zip(adversarials, correct_labels):
     adversarial.reshape((1, img_rows, img_cols, channels))
     print(correct_label)
