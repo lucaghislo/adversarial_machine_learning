@@ -23,7 +23,8 @@ def preprocess(image):
 def get_imagenet_label(probs):
   return decode_predictions(probs, top=1)[0][0]
 
-image_path = tf.keras.utils.get_file('ferrari488gtb.jpeg', 'https://raw.githubusercontent.com/lucaghislo/adversarial_machine_learning/main/images/ferrari488gtb.jpeg')
+# image_path = tf.keras.utils.get_file('ferrari488gtb.jpeg', 'https://raw.githubusercontent.com/lucaghislo/adversarial_machine_learning/main/images/ferrari488gtb.jpeg')
+image_path = tf.keras.utils.get_file('Città-Alta-vista.jpg', 'https://i0.wp.com/nataconlavaligia.com/wp-content/uploads/2016/10/Citta%CC%80-Alta-vista.jpg')
 
 image_raw = tf.io.read_file(image_path)
 image = tf.image.decode_image(image_raw)
