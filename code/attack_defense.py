@@ -13,7 +13,6 @@ def generate_adversarials(batch_size):
             x.append(adversarial)
             y.append(y_train[N])
         
-        
         x = np.asarray(x).reshape((batch_size, img_rows, img_cols, channels))
         y = np.asarray(y)
         

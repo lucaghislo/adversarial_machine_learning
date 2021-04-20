@@ -43,7 +43,7 @@ def create_model():
     model.add(Dropout(0.2))
     model.add(Dense(num_classes, activation='softmax'))
     model.compile(optimizer='adam', loss='mse', metrics=['accuracy'])
-    
+
     return model
 
 model = create_model()
@@ -63,6 +63,7 @@ def adversarial_pattern(image, label):
         loss = tf.keras.losses.MSE(label, prediction)
     
     gradient = tape.gradient(loss, image)
+    
     signed_grad = tf.sign(gradient)
     
     return signed_grad
