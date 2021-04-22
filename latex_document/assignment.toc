@@ -6,4 +6,5 @@
 \beamer@sectionintoc {2}{Implementation: an example}{10}{0}{2}
 \beamer@subsectionintoc {2}{1}{Project setup: the tools you'll need}{10}{0}{2}
 \beamer@subsectionintoc {2}{2}{An example: a Ferrari that turns out to be a purse}{12}{0}{2}
-\beamer@sectionintoc {3}{References}{18}{0}{3}
+\beamer@subsectionintoc {2}{3}{Bonus: number generator and recognizer}{18}{0}{2}
+\beamer@sectionintoc {3}{References}{22}{0}{3}

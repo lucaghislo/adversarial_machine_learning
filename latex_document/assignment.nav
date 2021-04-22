@@ -50,19 +50,29 @@
 \headcommand {\beamer@framepages {16}{16}}
 \headcommand {\slideentry {2}{2}{6}{17/17}{An example: a Ferrari that turns out to be a purse}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@sectionpages {10}{17}}
 \headcommand {\beamer@subsectionpages {12}{17}}
-\headcommand {\sectionentry {3}{References}{18}{References}{0}}
-\headcommand {\slideentry {3}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{18}{Bonus: number generator and recognizer}}
+\headcommand {\slideentry {2}{3}{1}{18/18}{Bonus: number generator and recognizer}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {3}{0}{2}{19/19}{}{0}}
+\headcommand {\slideentry {2}{3}{2}{19/19}{Bonus: number generator and recognizer}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {3}{0}{3}{20/20}{}{0}}
+\headcommand {\slideentry {2}{3}{3}{20/20}{Bonus: number generator and recognizer}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {3}{0}{4}{21/21}{}{0}}
+\headcommand {\slideentry {2}{3}{4}{21/21}{Bonus: number generator and recognizer}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@partpages {1}{21}}
+\headcommand {\beamer@sectionpages {10}{21}}
 \headcommand {\beamer@subsectionpages {18}{21}}
-\headcommand {\beamer@sectionpages {18}{21}}
-\headcommand {\beamer@documentpages {21}}
-\headcommand {\gdef \inserttotalframenumber {21}}
+\headcommand {\sectionentry {3}{References}{22}{References}{0}}
+\headcommand {\slideentry {3}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{0}{2}{23/23}{}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {3}{0}{3}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {3}{0}{4}{25/25}{}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@partpages {1}{25}}
+\headcommand {\beamer@subsectionpages {22}{25}}
+\headcommand {\beamer@sectionpages {22}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\gdef \inserttotalframenumber {25}}
