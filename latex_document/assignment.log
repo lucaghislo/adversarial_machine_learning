@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  22 APR 2021 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  23 APR 2021 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -919,7 +919,7 @@ LaTeX Info: Redefining \selectfont on input line 28.
 [2
 
 ]
-<images/hypegraph.png, id=136, 1228.59pt x 1168.365pt>
+<images/hypegraph.png, id=142, 1228.59pt x 1168.365pt>
 File: images/hypegraph.png Graphic file (type png)
 <use images/hypegraph.png>
 Package pdftex.def Info: images/hypegraph.png  used on input line 57.
@@ -937,7 +937,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3
 
  <./images/hypegraph.png>]
-<images/adv_stop.png, id=173, 877.2775pt x 440.64626pt>
+<images/adv_stop.png, id=179, 877.2775pt x 440.64626pt>
 File: images/adv_stop.png Graphic file (type png)
 <use images/adv_stop.png>
 Package pdftex.def Info: images/adv_stop.png  used on input line 67.
@@ -945,7 +945,7 @@ Package pdftex.def Info: images/adv_stop.png  used on input line 67.
  [4
 
  <./images/adv_stop.png>]
-<images/adv_cycle.jpg, id=207, 460.63pt x 296.38pt>
+<images/adv_cycle.jpg, id=213, 460.63pt x 296.38pt>
 File: images/adv_cycle.jpg Graphic file (type jpg)
 <use images/adv_cycle.jpg>
 Package pdftex.def Info: images/adv_cycle.jpg  used on input line 88.
@@ -955,7 +955,7 @@ Package pdftex.def Info: images/adv_cycle.jpg  used on input line 88.
  <./images/adv_cycle.jpg>] [6
 
 ]
-<images/attack_dim.png, id=278, 1427.3325pt x 460.72125pt>
+<images/attack_dim.png, id=284, 1427.3325pt x 460.72125pt>
 File: images/attack_dim.png Graphic file (type png)
 <use images/attack_dim.png>
 Package pdftex.def Info: images/attack_dim.png  used on input line 104.
@@ -973,7 +973,7 @@ Package pdftex.def Info: images/attack_dim.png  used on input line 104.
 ] [12
 
 ]
-<images/input.png, id=480, 578.16pt x 578.16pt>
+<images/input.png, id=490, 578.16pt x 578.16pt>
 File: images/input.png Graphic file (type png)
 <use images/input.png>
 Package pdftex.def Info: images/input.png  used on input line 177.
@@ -981,7 +981,7 @@ Package pdftex.def Info: images/input.png  used on input line 177.
  [13
 
  <./images/input.png>]
-<images/perturbation.png, id=514, 578.16pt x 578.16pt>
+<images/perturbation.png, id=525, 578.16pt x 578.16pt>
 File: images/perturbation.png Graphic file (type png)
 <use images/perturbation.png>
 Package pdftex.def Info: images/perturbation.png  used on input line 185.
@@ -989,7 +989,7 @@ Package pdftex.def Info: images/perturbation.png  used on input line 185.
  [14
 
  <./images/perturbation.png>]
-<images/output_1.png, id=547, 578.16pt x 578.16pt>
+<images/output_1.png, id=559, 578.16pt x 578.16pt>
 File: images/output_1.png Graphic file (type png)
 <use images/output_1.png>
 Package pdftex.def Info: images/output_1.png  used on input line 193.
@@ -997,7 +997,7 @@ Package pdftex.def Info: images/output_1.png  used on input line 193.
  [15
 
  <./images/output_1.png>]
-<images/output_2.png, id=582, 578.16pt x 578.16pt>
+<images/output_2.png, id=595, 578.16pt x 578.16pt>
 File: images/output_2.png Graphic file (type png)
 <use images/output_2.png>
 Package pdftex.def Info: images/output_2.png  used on input line 201.
@@ -1005,7 +1005,7 @@ Package pdftex.def Info: images/output_2.png  used on input line 201.
  [16
 
  <./images/output_2.png>]
-<images/output_3.png, id=614, 578.16pt x 578.16pt>
+<images/output_3.png, id=628, 578.16pt x 578.16pt>
 File: images/output_3.png Graphic file (type png)
 <use images/output_3.png>
 Package pdftex.def Info: images/output_3.png  used on input line 209.
@@ -1013,7 +1013,7 @@ Package pdftex.def Info: images/output_3.png  used on input line 209.
  [17
 
  <./images/output_3.png>]
-<images/immagini_matrix/matrice_numeri.png, id=646, 595.9866pt x 365.2044pt>
+<images/immagini_matrix/matrice_numeri.png, id=661, 595.9866pt x 365.2044pt>
 File: images/immagini_matrix/matrice_numeri.png Graphic file (type png)
 <use images/immagini_matrix/matrice_numeri.png>
 Package pdftex.def Info: images/immagini_matrix/matrice_numeri.png  used on inp
@@ -1022,33 +1022,33 @@ ut line 218.
  [18
 
  <./images/immagini_matrix/matrice_numeri.png>]
-<images/immagini_matrix/step_matrix_computation.png, id=680, 1262.7175pt x 683.
+<images/immagini_matrix/valori_numeri_matrice.png, id=696, 621.32124pt x 402.50
+375pt>
+File: images/immagini_matrix/valori_numeri_matrice.png Graphic file (type png)
+<use images/immagini_matrix/valori_numeri_matrice.png>
+Package pdftex.def Info: images/immagini_matrix/valori_numeri_matrice.png  used
+ on input line 226.
+(pdftex.def)             Requested size: 186.39781pt x 120.75204pt.
+ [19
+
+ <./images/immagini_matrix/valori_numeri_matrice.png>]
+<images/immagini_matrix/step_matrix_computation.png, id=731, 1262.7175pt x 683.
 55376pt>
 File: images/immagini_matrix/step_matrix_computation.png Graphic file (type png
 )
 <use images/immagini_matrix/step_matrix_computation.png>
 Package pdftex.def Info: images/immagini_matrix/step_matrix_computation.png  us
-ed on input line 226.
+ed on input line 234.
 (pdftex.def)             Requested size: 308.10648pt x 166.78896pt.
 
-Overfull \hbox (0.8166pt too wide) in paragraph at lines 226--226
+Overfull \hbox (0.8166pt too wide) in paragraph at lines 234--234
  [] 
  []
 
-[19
+[20
 
  <./images/immagini_matrix/step_matrix_computation.png>]
-<images/immagini_matrix/valori_numeri_matrice.png, id=715, 621.32124pt x 402.50
-375pt>
-File: images/immagini_matrix/valori_numeri_matrice.png Graphic file (type png)
-<use images/immagini_matrix/valori_numeri_matrice.png>
-Package pdftex.def Info: images/immagini_matrix/valori_numeri_matrice.png  used
- on input line 234.
-(pdftex.def)             Requested size: 186.39781pt x 120.75204pt.
- [20
-
- <./images/immagini_matrix/valori_numeri_matrice.png>]
-<images/immagini_matrix/defense_computation.png, id=747, 1111.15125pt x 371.387
+<images/immagini_matrix/defense_computation.png, id=764, 1111.15125pt x 371.387
 5pt>
 File: images/immagini_matrix/defense_computation.png Graphic file (type png)
 <use images/immagini_matrix/defense_computation.png>
@@ -1065,7 +1065,7 @@ Overfull \hbox (1.60928pt too wide) in paragraph at lines 242--242
  <./images/immagini_matrix/defense_computation.png>] [22
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
-<images/adv_book.jpg, id=817, 291.0072pt x 359.1819pt>
+<images/adv_book.jpg, id=835, 291.0072pt x 359.1819pt>
 File: images/adv_book.jpg Graphic file (type jpg)
 <use images/adv_book.jpg>
 Package pdftex.def Info: images/adv_book.jpg  used on input line 272.
@@ -1091,21 +1091,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (./assignment.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
-
-
-Package rerunfilecheck Warning: File `assignment.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `assignment.out':
-(rerunfilecheck)             Before: 0031753DECE7FE5AAE521F818E1E4BE0;672
-(rerunfilecheck)             After:  5B9F1690BF61D4E840E2909AB132EFF0;761.
+Package rerunfilecheck Info: File `assignment.out' has not changed.
+(rerunfilecheck)             Checksum: 5B9F1690BF61D4E840E2909AB132EFF0;761.
  ) 
 Here is how much of TeX's memory you used:
- 18899 strings out of 482778
- 367089 string characters out of 5955219
+ 18910 strings out of 482778
+ 367186 string characters out of 5955219
  775446 words of memory out of 5000000
- 33695 multiletter control sequences out of 15000+600000
+ 33706 multiletter control sequences out of 15000+600000
  543343 words of font info for 59 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  59i,19n,63p,798b,680s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1118,10 +1111,10 @@ fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on assignment.pdf (25 pages, 4776038 bytes).
+Output written on assignment.pdf (25 pages, 4777205 bytes).
 PDF statistics:
- 955 PDF objects out of 1000 (max. 8388607)
- 868 compressed objects within 9 object streams
+ 971 PDF objects out of 1000 (max. 8388607)
+ 884 compressed objects within 9 object streams
  62 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
