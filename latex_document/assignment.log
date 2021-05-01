@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  1 MAY 2021 08:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  1 MAY 2021 09:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1092,7 +1092,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `assignment.out' has not changed.
-(rerunfilecheck)             Checksum: 5B9F1690BF61D4E840E2909AB132EFF0;761.
+(rerunfilecheck)             Checksum: 3FF875678DFB5D77AB2CDA69E8684A23;754.
  ) 
 Here is how much of TeX's memory you used:
  18910 strings out of 482778
@@ -1111,7 +1111,7 @@ fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on assignment.pdf (25 pages, 4777200 bytes).
+Output written on assignment.pdf (25 pages, 4777221 bytes).
 PDF statistics:
  971 PDF objects out of 1000 (max. 8388607)
  884 compressed objects within 9 object streams
