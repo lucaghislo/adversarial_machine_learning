@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  23 APR 2021 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.3.21)  1 MAY 2021 08:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,7 +1096,7 @@ Package rerunfilecheck Info: File `assignment.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  18910 strings out of 482778
- 367186 string characters out of 5955219
+ 367182 string characters out of 5955219
  775446 words of memory out of 5000000
  33706 multiletter control sequences out of 15000+600000
  543343 words of font info for 59 fonts, out of 8000000 for 9000
@@ -1111,7 +1111,7 @@ fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy8.pfb>
-Output written on assignment.pdf (25 pages, 4777205 bytes).
+Output written on assignment.pdf (25 pages, 4777200 bytes).
 PDF statistics:
  971 PDF objects out of 1000 (max. 8388607)
  884 compressed objects within 9 object streams
