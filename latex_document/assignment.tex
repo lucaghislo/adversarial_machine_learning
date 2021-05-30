@@ -160,11 +160,12 @@ $
 \end{center}
 Where:\\
 \quad - $adv_x$: adversarial image\\
-\quad - $J$: loss\\
 \quad - $x$: original input image\\
-\quad - $y$: original input label\\
 \quad - $\epsilon$: multiplier to ensure the perturbations are small\\
-\quad - $\theta$: model parameters
+\quad - $\nabla_x$: image gradient (as for the Sobel operator in edge detection algorithms)\\
+\quad - $J$: computed loss based on input image, model parameters and input label\\
+\quad - $\theta$: model parameters\\
+\quad - $y$: original input label\\
 \end{frame}
 
 
